@@ -195,8 +195,8 @@ The assignment-style usage is:
 
 curl "http://localhost:8080/ask?q=When%20is%20Layla%20planning%20her%20trip%20to%20London%3F"
 
-Design Notes (Bonus 1)
-Approach 1 – Rule-based + TF-IDF (Aurora/)
+##Design Notes (Bonus 1)
+##Approach 1 – Rule-based + TF-IDF (Aurora/)
 
 Idea
 
