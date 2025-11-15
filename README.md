@@ -1,6 +1,7 @@
-# Aurora QA – Question Answering over Member Messages
+# Aurora QA – Question Answering over Member Messages 
 
-This repo contains a small question-answering service that can answer natural-language questions about member data exposed via the November 7 `/messages` API.
+This repo contains **two implementations** of a small question-answering service: one rule-based + TF-IDF approach and one Groq LLM–powered approach, both answering natural-language questions about member data exposed via the November 7 `/messages` API.
+
 
 Example questions:
 
